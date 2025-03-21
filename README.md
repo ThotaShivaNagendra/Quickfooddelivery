@@ -1,2 +1,9 @@
-# Quickfooddelivery
-This is an online platform designed to streamline the process of ordering food from local restaurants, providing users with a convenient and efficient experience. This system allows customers to browse menus, place orders, and receive deliveries at their preferred locations, while enabling restaurants to manage orders seamlessly
+> ✨ **Note:** This is an opensource Web Application for [Food Devlivery](https://react-quick-food.firebaseapp.com/).
+
+### [Live demo](https://react-quick-food.firebaseapp.com/)
+
+## Getting Started
+
+- Install dependencies by running `yarn` or `npm install`.
+- Run `yarn start` or `npm run start` to start the local development server.
+- 😎 That's it! You're ready to start building awesome application.
